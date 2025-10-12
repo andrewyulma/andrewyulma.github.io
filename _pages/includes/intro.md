@@ -1,5 +1,5 @@
 I am now working on **Prognosis & Diagnosis & Maintenance & Reliability & Artificial Intelligence**. 
-I am currently an Associate professor (non-tenured) at **State Key Laboratory of Smart Power Distribution Equipment and System (智能配用电装备与系统全国重点实验室)** <img src='./images/EElab.png' style="width: 2em;">, [School of Electrical Engineering] (https://ee.hebut.edu.cn/), Hebei University of Technology <img src='./images/hebut.png' style="width: 2em;">.
+I am currently an Associate professor (non-tenured) at **State Key Laboratory of Smart Power Distribution Equipment and System (智能配用电装备与系统全国重点实验室)** <img src='./images/EElab.png' style="width: 2em;">, [School of Electrical Engineering](https://ee.hebut.edu.cn/), Hebei University of Technology <img src='./images/hebut.png' style="width: 2em;">.
 
 I graduated from [School of Reliability and System Engineering](https://rse.buaa.edu.cn/), Beihang University (北京航空航天大学 可靠性与系统工程学院) <img src='./images/Beihang_University_Logo.svg.png' style="width: 2em;"> with a Ph.D's degree, advised by [Jun Yang (杨军)]), and from the [College of Safety and Ocean Engineering] (https://www.cup.edu.cn/safety/), China University of Petroleum, Beijing (中国石油大学（北京）安全与海洋工程学院) <img src='./images/China_University_Of_Petroleum_Beijing_emblem.svg.png' style="width: 2em;"> with a master's degree, advised by [Jinjiang Wang (王金江)]. 
 
