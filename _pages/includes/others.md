@@ -17,3 +17,19 @@
 - *2018.09*, 中海油能源技术开发研究院通信网络系统建设数据中心, 北京昌平.
 - *2018.07*, 中国石油管道科技中心, 河北廊坊.
 - *2018.04*, 中国石化川气东送天然气管道有限公司, 普光、利川、宜昌、潜江、武汉、金坛等站.
+
+# 💼 Projects  
+- *2026.01-2028.12*, National Science Foundation of China (国家自然科学基金青年基金C类), 在研, Principle investigator 主持.
+- *2025.01-2029.12*, National Science Foundation of China (国家自然科学基金区域联合基金集成项目), 在研, 项目骨干.
+- *2025.10-2025.12*, University-Enterprise Collaborative Horizontal Project, 在研, 主持.
+- *2025.07-2027.06*, University-Enterprise Collaborative Horizontal Project, 在研, 主持.
+
+# 🎟️ Recruitment  
+- 每年招收2名硕士研究生，欢迎同学们邮件联系.
+- 名额有限，请有意向的同学尽快联系！
+- 注意邮件务必包含个人简历和成绩单！如符合条件，将尽快安排线上面试！
+- Recruiting 2 master's students annually; feel free to contact me via email.
+- Limited spots available; interested students should reach out as soon as possible!
+- Please ensure your email includes your CV and transcript. If qualified, an online interview will be arranged promptly!
+
+
