@@ -1,6 +1,28 @@
 
 # 📝 Publications 
-## 🎙 Speech Synthesis
+## 🎙 Deep Learning and Smart Manufacturing
+- `JMS 2018` [Deep learning for smart manufacturing: Methods and applications](https://www.sciencedirect.com/science/article/abs/pii/S0278612518300037), Jinjiang Wang (王金江), **Yulin Ma** (马钰淋), Laibin Zhang (张来宾), Robert X. Gao, Dazhong Wu. Journal of Manufacturing Systems, Volume 48, Part C, July 2018, Pages 144-156. (中科院一区TOP, ESI热点、高被引论文, Journal of Manufacturing Systems 2021 Best Paper Award!)
+
+- ## 🎙 Diagnosis & Reflector Antenna & Industrial Robot
+- `TIM 2025` [xxxx](xxx), Guyu Zhang, **Yulin Ma**, Xu Han, et. al. IEEE Transactions on Instrumentation and Measurement, 2025 (upcoming soon!).
+
+- ## 🎙 Diagnosis & Artificial Intelligence
+- `EAAI 2025` [Sharpness-aware debiased alignment for imbalanced domain generalization fault diagnosis](https://www.sciencedirect.com/science/article/abs/pii/S0952197625026582), **Yulin Ma** (马钰淋), Jun Yang (杨军). Engineering Applications of Artificial Intelligence (中科院一区TOP), Volume 162, Part D, 24 December 2025, 112627.
+- `TIM 2024` [Sharpness-aware gradient alignment for domain generalization with noisy labels in intelligent fault diagnosis](https://ieeexplore.ieee.org/abstract/document/10555403), **Yulin Ma**, Jun Yang, Ruqiang Yan (严如强). IEEE Transactions on Instrumentation and Measurement (中科院二区TOP), 12 June 2024, 3523210.
+- `RESS 2023` [Gradient aligned domain generalization with a mutual teaching teacher-student network for intelligent fault diagnosis]([https://www.sciencedirect.com/science/article/abs/pii/S0952197625026582](https://www.sciencedirect.com/science/article/abs/pii/S0951832023004301)), **Yulin Ma**, Jun Yang (杨军). Reliability Engineering & System Safety (中科院一区TOP), Volume 239, November 2023, 109516.
+- `KBS 2023` [Meta Bi-classifier Gradient Discrepancy for noisy and universal domain adaptation in intelligent fault diagnosis]([https://www.sciencedirect.com/science/article/abs/pii/S0950705123004859)), **Yulin Ma**, Jun Yang. Knowledge-Based Systems (中科院一区TOP), Volume 276, 27 September 2023, 110735.
+- `RESS 2022` [Convolutional kernel aggregated domain adaptation for intelligent fault diagnosis with label noise]([https://www.sciencedirect.com/science/article/abs/pii/S0951832022003593)), **Yulin Ma**, Lei Li, Jun Yang. Reliability Engineering & System Safety (中科院一区TOP), Volume 227, November 2022, 108736.
+- `Neup 2022` [Collaborative and adversarial deep transfer auto-encoder for intelligent fault diagnosis]([[https://www.sciencedirect.com/science/article/abs/pii/S0951832022003593](https://www.sciencedirect.com/science/article/abs/pii/S0925231222002120))), **Yulin Ma**, Jun Yang, Lei Li. Neurocomputing (中科院二区TOP), Volume 486, 14 May 2022, Pages 1-15.
+- `BISE 2019` [Performance Analysis and Enhancement of Deep Convolutional Neural Network: Application to Gearbox Condition Monitoring](https://link.springer.com/article/10.1007/s12599-019-00593-4), Jinjiang Wang, **Yulin Ma**, Rui Zhao, et. al.  Business & Information Systems Engineering, Volume 61, pages 311–326, 2019.
+
+- ## 🎙 Computer Vision & Artificial Intelligence
+- `Infs 2022` [Pseudo-labeling Integrating Centers and Samples with Consistent Selection Mechanism for Unsupervised Domain Adaptation], Lei Li, Jun Yang, Yulin Ma, Xuefeng Kong. Information Sciences (中科院一区TOP), Volume 628, May 2023, Pages 50-69.
+- `Neup 2022` [Discriminative transfer feature learning based on robust-centers], Lei Li, Jun Yang, Xuefeng Kong, Yulin Ma. Neurocomputing, Volume 500, 21 August 2022, Pages 39-57.
+- `KBS 2022` [Unsupervised domain adaptation via discriminative feature learning and classifier adaptation from center-based distances], Lei Li, Jun Yang, Xuefeng Kong, Jianchun Zhang, Yulin Ma. Knowledge-Based Systems (中科院一区TOP), Volume 250, 17 August 2022, 109022.
+- 
+- ## 🎙 Defect Recognition & Artificial Intelligence
+- `JSSMS 2022` [Head Defect Recognition of GH159 Bolt After Hot Upsetting Based on Transfer Learning (基于迁移学习的 GH159 螺栓热镦后头部缺陷识别)], Lei Li, Yulin Ma, Gang Hu, Xuefeng Kong, Jun Yang, Yanwei Xu. Journal of Systems Science and Mathematical Sciences 系统科学与数学, 2021.
+- `SRSE 2022` [A Novel Hybrid Neural Network with Attentive Feature Selection for Degradation Status Identification of Aircraft Self-locking Nuts], Wenjing Zhang, Yulin Ma, Yanwei Xu, Xinfu Liang, Le Qi, Jun Yang, Lei Li. International Conference on System Reliability and Safety Engineering (SRSE), 2022.
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -17,7 +39,7 @@
 </div> -->
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2021</div><img src='images/fs2.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2021</div><img src='images/fs2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [FastSpeech 2: Fast and High-Quality End-to-End Text to Speech](https://arxiv.org/abs/2006.04558) \\
@@ -110,7 +132,7 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 - `AAAI 2024` [AMD: Autoregressive Motion Diffusion](https://arxiv.org/abs/2305.09381), Bo Han, Hao Peng, Minjing Dong, **Yi Ren**, et al.
 - ``AAAI 2022`` [Parallel and High-Fidelity Text-to-Lip Generation](https://arxiv.org/abs/2107.06831), Jinglin Liu, Zhiying Zhu, **Yi Ren**, et al. \| [![](https://img.shields.io/github/stars/Dianezzy/ParaLip?style=social&label=ParaLip Stars)](https://github.com/Dianezzy/ParaLip)
 - ``AAAI 2022`` [Flow-based Unconstrained Lip to Speech Generation](https://ojs.aaai.org/index.php/AAAI/article/view/19966), Jinzheng He, Zhou Zhao, **Yi Ren**, et al.
-- ``ACM-MM 2020`` [FastLR: Non-Autoregressive Lipreading Model with Integrate-and-Fire](https://dl.acm.org/doi/10.1145/3394171.3413740), Jinglin Liu, **Yi Ren**, et al.
+- ``ACM-MM 2020`` [FastLR: Non-Autoregressive Lipreading Model with Integrate-and-Fire](https://dl.acm.org/doi/10.1145/3394171.3413740), Jinglin Liu, **Yi Ren**, et al. -->
 
 ## 📚 Machine Translation 
 
