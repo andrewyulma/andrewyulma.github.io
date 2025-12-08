@@ -4,7 +4,7 @@
 - `JMS 2018` [Deep learning for smart manufacturing: Methods and applications](https://www.sciencedirect.com/science/article/abs/pii/S0278612518300037), Jinjiang Wang (王金江), **Yulin Ma** (马钰淋), Laibin Zhang (张来宾), Robert X. Gao, Dazhong Wu. Journal of Manufacturing Systems, Volume 48, Part C, July 2018, Pages 144-156. (中科院一区TOP, ESI热点、高被引论文, Journal of Manufacturing Systems 2021 Best Paper Award!)
 
 - ## 🎙 Diagnosis & Reflector Antenna & Industrial Robot
-- `TIM 2025` [xxxx](xxx), Guyu Zhang, **Yulin Ma**, Xu Han, et. al. IEEE Transactions on Instrumentation and Measurement, 2025 (upcoming soon!).
+- `TIM 2025` [Prototype-Aware Contrastive Learning for Few-Shot Fault Diagnosis of Antenna Planetary Reducers under Time-Varying Speed Conditions], Guyu Zhang, **Yulin Ma**, Xu Han, et. al. IEEE Transactions on Instrumentation and Measurement, 2025.
 
 - ## 🎙 Diagnosis & Mechanical Machinery & Chemical Process
 - `EAAI 2025` [Sharpness-aware debiased alignment for imbalanced domain generalization fault diagnosis](https://www.sciencedirect.com/science/article/abs/pii/S0952197625026582), **Yulin Ma** (马钰淋), Jun Yang (杨军). Engineering Applications of Artificial Intelligence (中科院一区TOP), Volume 162, Part D, 24 December 2025, 112627.
