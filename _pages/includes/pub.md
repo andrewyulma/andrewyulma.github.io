@@ -4,7 +4,7 @@
 - `JMS 2018` [Deep learning for smart manufacturing: Methods and applications](https://www.sciencedirect.com/science/article/abs/pii/S0278612518300037), Jinjiang Wang (王金江), **Yulin Ma** (马钰淋), Laibin Zhang (张来宾), Robert X. Gao, Dazhong Wu. Journal of Manufacturing Systems, Volume 48, Part C, July 2018, Pages 144-156. (中科院一区TOP, ESI热点、高被引论文, Journal of Manufacturing Systems 2021 Best Paper Award!)
 
 - ## 🎙 Diagnosis & Reflector Antenna & Industrial Robot
-- `TIM 2025` [Prototype-Aware Contrastive Learning for Few-Shot Fault Diagnosis of Antenna Planetary Reducers under Time-Varying Speed Conditions], Guyu Zhang, **Yulin Ma**, Xu Han, et. al. IEEE Transactions on Instrumentation and Measurement, 2025. (corresponding author)
+- `TIM 2025` [Prototype-Aware Contrastive Learning for Few-Shot Fault Diagnosis of Antenna Planetary Reducers under Time-Varying Speed Conditions], Guyu Zhang, **Yulin Ma***, Xu Han*, et. al. IEEE Transactions on Instrumentation and Measurement, 2025. (co-corresponding author)
 
 - ## 🎙 Diagnosis & Mechanical Machinery & Chemical Process
 - `EAAI 2025` [Sharpness-aware debiased alignment for imbalanced domain generalization fault diagnosis](https://www.sciencedirect.com/science/article/abs/pii/S0952197625026582), **Yulin Ma** (马钰淋), Jun Yang (杨军). Engineering Applications of Artificial Intelligence (中科院一区TOP), Volume 162, Part D, 24 December 2025, 112627.
@@ -15,6 +15,9 @@
 - `Neup 2022` [Collaborative and adversarial deep transfer auto-encoder for intelligent fault diagnosis]([[https://www.sciencedirect.com/science/article/abs/pii/S0951832022003593](https://www.sciencedirect.com/science/article/abs/pii/S0925231222002120), **Yulin Ma**, Jun Yang, Lei Li. Neurocomputing (中科院二区TOP), Volume 486, 14 May 2022, Pages 1-15.
 - `BISE 2019` [Performance Analysis and Enhancement of Deep Convolutional Neural Network: Application to Gearbox Condition Monitoring](https://link.springer.com/article/10.1007/s12599-019-00593-4), Jinjiang Wang, **Yulin Ma**, Rui Zhao, et. al.  Business & Information Systems Engineering, Volume 61, pages 311–326, 2019.
 
+- ## 🎙 Reliability & Unmanned Swarm Systems
+- `CJA 2025` [A multi-agent-based short-cycle reliability evolution model for unmanned swarm systems], Xing Guo, Yulin Ma, et al. Chinese Journal of Aeronautics (中科院一区), October 2025.
+  
 - ## 🎙 Computer Vision & Artificial Intelligence
 - `Infs 2022` [Pseudo-labeling Integrating Centers and Samples with Consistent Selection Mechanism for Unsupervised Domain Adaptation], Lei Li, Jun Yang, Yulin Ma, Xuefeng Kong. Information Sciences (中科院一区TOP), Volume 628, May 2023, Pages 50-69.
 - `Neup 2022` [Discriminative transfer feature learning based on robust-centers], Lei Li, Jun Yang, Xuefeng Kong, Yulin Ma. Neurocomputing, Volume 500, 21 August 2022, Pages 39-57.
