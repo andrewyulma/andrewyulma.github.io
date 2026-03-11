@@ -3,6 +3,9 @@
 - ## 🎙 Deep Learning and Smart Manufacturing
 - `JMS 2018` [Deep learning for smart manufacturing: Methods and applications](https://www.sciencedirect.com/science/article/abs/pii/S0278612518300037), Jinjiang Wang (王金江), **Yulin Ma** (马钰淋), Laibin Zhang (张来宾), Robert X. Gao, Dazhong Wu. Journal of Manufacturing Systems, Volume 48, Part C, July 2018, Pages 144-156. (中科院一区TOP, ESI热点、高被引论文, Journal of Manufacturing Systems 2021 Best Paper Award!)
 
+- ## 🎙 Remaining Useful Life Prediction & Large Language Model
+- `IOTJ 2026` [Mutual Information Optimization with Large Language Model for Remaining Useful Life Prediction in IIOT], **Yulin Ma***, et. al. IEEE Internet of Things Journal, 2026.
+  
 - ## 🎙 Diagnosis & Reflector Antenna & Industrial Robot
 - `TIM 2025` [Prototype-Aware Contrastive Learning for Few-Shot Fault Diagnosis of Antenna Planetary Reducers under Time-Varying Speed Conditions], Guyu Zhang, **Yulin Ma***, Xu Han*, et. al. IEEE Transactions on Instrumentation and Measurement, 2025. (co-corresponding author)
 
