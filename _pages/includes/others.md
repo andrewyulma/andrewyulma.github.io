@@ -1,6 +1,6 @@
 
 # 📖 Educations
-- *2019.06 - 2022.04*, Ph.D, School of Reliability and Systems Engineering, Beihang Univeristy, Beijing.
+- *2020.06 - 2024.11*, Ph.D, School of Reliability and Systems Engineering, Beihang Univeristy, Beijing.
 - *2017.09 - 2020.06*, Master, School of Safety and Ocean Engineering, China Univeristy of Petroleum, Beijing.
 - *2013.09 - 2017.06*, Bachalor, Qingdao University of Science and Technology, Qingdao.
 
