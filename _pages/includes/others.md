@@ -5,6 +5,7 @@
 - *2013.09 - 2017.06*, Bachalor, Qingdao University of Science and Technology, Qingdao.
 
 # 💬 Invited Talks
+- *2026.05*, 中国现场统计学会可靠性工程分会2026年学术年会分会场报告, Presentation, Nanjing.
 - *2025.08*, International Conference on Reliability, Maintainability and Safety (ICRMS 2025), Invited Speaker，Shanghai.
 - *2022.12*,International Conference on System Reliability and Safety Engineering (SRSE 2022), Excellent Oral Presentation, Guangzhou.
 - *2025.09*, 第三十八届机械行业可靠性技术2025年学术年会分会场报告，Keynote Speaker, Xian.
