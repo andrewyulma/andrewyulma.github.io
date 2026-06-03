@@ -21,6 +21,7 @@
 
 # 💼 Projects  
 - *2026.01-2028.12*, National Science Foundation of China (国家自然科学基金青年基金C类), 在研, Principle investigator 主持.
+- *2027.01-2029.12*, Hebei National Science Foundation (河北省自然科学基金青年基金), 在研, Principle investigator 主持.
 - *2025.01-2029.12*, National Science Foundation of China (国家自然科学基金区域联合基金集成项目), 在研, 项目骨干.
 - *2025.10-2025.12*, University-Enterprise Collaborative Horizontal Project, 在研, 主持.
 
