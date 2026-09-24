@@ -3,13 +3,12 @@
 - ## 🎙 Deep Learning and Smart Manufacturing
 - `JMS 2018` [Deep learning for smart manufacturing: Methods and applications](https://www.sciencedirect.com/science/article/abs/pii/S0278612518300037), Jinjiang Wang (王金江), **Yulin Ma** (马钰淋), Laibin Zhang (张来宾), Robert X. Gao, Dazhong Wu. Journal of Manufacturing Systems, Volume 48, Part C, July 2018, Pages 144-156. (中科院一区TOP, ESI热点、高被引论文, Journal of Manufacturing Systems 2021 Best Paper Award!)
 
-- ## 🎙 Remaining Useful Life Prediction & Large Language Model
+- ## 🎙 Large Language Model for Robotic Predictive Maintenance
 - `IOTJ 2026` [Mutual Information Optimization with Large Language Model for Remaining Useful Life Prediction in IIOT], **Yulin Ma***, et. al. IEEE Internet of Things Journal, 2026.
   
-- ## 🎙 Diagnosis & Reflector Antenna & Industrial Robot
-- `TIM 2025` [Prototype-Aware Contrastive Learning for Few-Shot Fault Diagnosis of Antenna Planetary Reducers under Time-Varying Speed Conditions], Guyu Zhang, **Yulin Ma***, Xu Han*, et. al. IEEE Transactions on Instrumentation and Measurement, 2025. (co-corresponding author)
-
-- ## 🎙 Diagnosis & Mechanical Machinery & Chemical Process
+- ## 🎙 Industrial Robot & Reflector Antenna & Diagnosis
+- `ITR 2026` [Long Short-Term Invariant Learning for Few-Shot Domain Generalization-Based Fault Diagnosis of Antenna Reducers Under Time-Varying Speed Conditions], Guyu Zhang, **Yulin Ma***, Xu Han*, et. al. IEEE Transactions on Reliability, 2026. (corresponding author)
+- `TIM 2025` [Prototype-Aware Contrastive Learning for Few-Shot Fault Diagnosis of Antenna Planetary Reducers under Time-Varying Speed Conditions], Guyu Zhang, **Yulin Ma***, Xu Han*, et. al. IEEE Transactions on Instrumentation and Measurement, 2025. (corresponding author)
 - `EAAI 2025` [Sharpness-aware debiased alignment for imbalanced domain generalization fault diagnosis](https://www.sciencedirect.com/science/article/abs/pii/S0952197625026582), **Yulin Ma** (马钰淋), Jun Yang (杨军). Engineering Applications of Artificial Intelligence (中科院一区TOP), Volume 162, Part D, 24 December 2025, 112627.
 - `TIM 2024` [Sharpness-aware gradient alignment for domain generalization with noisy labels in intelligent fault diagnosis](https://ieeexplore.ieee.org/abstract/document/10555403), **Yulin Ma**, Jun Yang, Ruqiang Yan (严如强). IEEE Transactions on Instrumentation and Measurement (中科院二区TOP), 12 June 2024, 3523210.
 - `RESS 2023` [Gradient aligned domain generalization with a mutual teaching teacher-student network for intelligent fault diagnosis]([https://www.sciencedirect.com/science/article/abs/pii/S0952197625026582](https://www.sciencedirect.com/science/article/abs/pii/S0951832023004301), **Yulin Ma**, Jun Yang (杨军). Reliability Engineering & System Safety (中科院一区TOP), Volume 239, November 2023, 109516.
@@ -25,8 +24,6 @@
 - `Infs 2022` [Pseudo-labeling Integrating Centers and Samples with Consistent Selection Mechanism for Unsupervised Domain Adaptation], Lei Li, Jun Yang, Yulin Ma, Xuefeng Kong. Information Sciences (中科院一区TOP), Volume 628, May 2023, Pages 50-69.
 - `Neup 2022` [Discriminative transfer feature learning based on robust-centers], Lei Li, Jun Yang, Xuefeng Kong, Yulin Ma. Neurocomputing, Volume 500, 21 August 2022, Pages 39-57.
 - `KBS 2022` [Unsupervised domain adaptation via discriminative feature learning and classifier adaptation from center-based distances], Lei Li, Jun Yang, Xuefeng Kong, Jianchun Zhang, Yulin Ma. Knowledge-Based Systems (中科院一区TOP), Volume 250, 17 August 2022, 109022.
-- 
-- ## 🎙 Defect Recognition & Artificial Intelligence
 - `JSSMS 2022` [Head Defect Recognition of GH159 Bolt After Hot Upsetting Based on Transfer Learning (基于迁移学习的 GH159 螺栓热镦后头部缺陷识别)], Lei Li, Yulin Ma, Gang Hu, Xuefeng Kong, Jun Yang, Yanwei Xu. Journal of Systems Science and Mathematical Sciences 系统科学与数学, 2021.
 - `SRSE 2022` [A Novel Hybrid Neural Network with Attentive Feature Selection for Degradation Status Identification of Aircraft Self-locking Nuts], Wenjing Zhang, Yulin Ma, Yanwei Xu, Xinfu Liang, Le Qi, Jun Yang, Lei Li. International Conference on System Reliability and Safety Engineering (SRSE), 2022.
 
